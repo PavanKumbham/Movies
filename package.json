@@ -2,8 +2,8 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PavanKumbham.github.io/Movies",
   "type": "module",
+  "homepage": "https://PavanKumbham.github.io/Movies",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
